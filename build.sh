@@ -31,7 +31,7 @@ for file in $list ; do
   sed -i '' -e 's#DATE#'$date'#g' ${target}
 done
 
-alias change='cd tabs'
+: 'alias change='cd tabs'
 change
 echo "entering tabs folder"
 ./build.sh
@@ -48,4 +48,4 @@ change
 alias change='cd beloved'
 change
 echo "entering beloved"
-./build.sh
+./build.sh '
