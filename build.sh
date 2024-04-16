@@ -13,7 +13,7 @@ for file in $list ; do
     hover="#EC6F2B"
     fontsize=0.96em
   else
-    bkg="#FED1C7"
+    bkg="#ffdede"
     font="#333"
     link="#333"
     hover="#555"
