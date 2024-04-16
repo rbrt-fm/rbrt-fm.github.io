@@ -16,10 +16,11 @@
       font-family: 'Cutive Mono', monospace; font-size: FONT_SIZE;}
     pre {font-size: 1.3em; color:#222;}
     h1 {font-weight:bold; font-size: 2.5em; margin-top:1.5em; text-align: center}
+    h2 {font-weight:bold; font-size: 1.5em; margin-top:1.5em; text-align: center}
     hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
     a {color:FONT_COLOR;}
     a:hover {color:HOVER_COLOR;}
-    img {margin-top: -0.5em; max-width:100%;}
+    img {margin-top: -0.5em; max-width:100%; text-align: center}
     input {font-family: inherit;}
 </style>
 </head>
