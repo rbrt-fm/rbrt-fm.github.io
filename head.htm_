@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
     @font-face {
-      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      font-family: 'Cutive Mono'; font-style: normal; font-weight: 400;
       src: local(''),
-        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
-        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+        url('../include/CutiveMono-Regular.woff2') format('woff2'),
+        url('../include/CutiveMono-Regular.woff') format('woff'); }
     body {background-color:BKG_COLOR; max-width:800px; color:FONT_COLOR; 
-      font-family: 'Roboto Mono', monospace; font-size: FONT_SIZE;}
+      font-family: 'Cutive Mono', monospace; font-size: FONT_SIZE;}
     pre {font-size: 1.3em; color:#222;}
     h1 {font-weight:bold; font-size: 1.6em; margin-top:1.5em;}
     hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
@@ -21,13 +21,6 @@
     a:hover {color:HOVER_COLOR;}
     img {margin-top: -0.5em; max-width:100%;}
     input {font-family: inherit;}
-    code {
-      background: #ffeff0;
-      word-wrap: break-word;
-      box-decoration-break: clone;
-      padding: .1rem .3rem .2rem;
-      border-radius: .2rem; 
-    }
 </style>
 </head>
 <body>
