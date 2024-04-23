@@ -3,8 +3,10 @@
 ## [bandcamp](https://urmybabybaby.bandcamp.com/music) [instagram](https://www.instagram.com/babybaby4ever/)
 <table>
     <tr>
-        <td><p align="center"><iframe id="ytplayer" type="text/html" width="480" height="270"
+        <td>
+        	<iframe id="ytplayer" type="text/html" width="480" height="270"
 src="https://www.youtube.com/embed/fsrva7YPJnQ?disablekb=1&modestbranding=1&color=white"
-frameborder="0" allowfullscreen></td>
+frameborder="0" allowfullscreen style="text-align:center">
+</td>
     </tr>
 </table>
