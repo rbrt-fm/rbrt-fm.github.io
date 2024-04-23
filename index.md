@@ -7,3 +7,5 @@ src="https://www.youtube.com/embed/fsrva7YPJnQ?disablekb=1&modestbranding=1&colo
 frameborder="0" allowfullscreen>
 </iframe>
 </table>
+
+play in fullscreen, lol
