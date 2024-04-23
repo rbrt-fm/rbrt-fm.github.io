@@ -4,9 +4,10 @@
 <table>
     <tr>
         <td>
-        	<iframe id="ytplayer" type="text/html" width="480" height="270"
+        	<iframe align="center" id="ytplayer" type="text/html" width="90%" height="90%"
 src="https://www.youtube.com/embed/fsrva7YPJnQ?disablekb=1&modestbranding=1&color=white"
-frameborder="0" allowfullscreen style="text-align:center">
+frameborder="0" allowfullscreen>
+</iframe>
 </td>
     </tr>
 </table>
