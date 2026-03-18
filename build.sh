@@ -6,7 +6,7 @@ for file in $list ; do
   file=${file:2}
   file=${file%.*}
   echo "$file"
-  if [ $file == "spb2023" ] || [ $file == "firehouse" ]; then
+  : 'if [ $file == "spb2023" ] || [ $file == "firehouse" ]; then
     bkg="#d8d8d8"
     font="#000000"
     link="#b2ffff"
@@ -18,7 +18,7 @@ for file in $list ; do
     link="#333"
     hover="#555"
     fontsize=0.8em
-  fi
+  fi'
   target=${file}.html
   cat head.htm_ > ${target}
   cmark --unsafe ${file}.md >> ${target}
